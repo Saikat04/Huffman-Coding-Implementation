@@ -1,5 +1,5 @@
 # Huffman Compression and Decompression in Java
-This project implements the Huffman Compression algorithm in Java to efficiently compress and decompress files. The Huffman Coding technique is used to assign variable-length codes to input characters based on their frequency, achieving optimal file compression.
+This project implements the Huffman Compression algorithm in Java to efficiently compress and decompress text files. The Huffman Coding technique is used to assign variable-length codes to input characters based on their frequency, achieving optimal file compression.
 
 ## Features:
 File Compression: Compresses any input file by encoding its contents using the Huffman Coding algorithm.<br>
